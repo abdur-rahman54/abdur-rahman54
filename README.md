@@ -3,7 +3,9 @@
 <img align="right" alt="cyber security" width="400" src="https://media.tenor.com/54mjjpuowCgAAAAC/ninjala-jane.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdur-rahman54&label=Profile%20views&color=0e75b6&style=flat" alt="abdur-rahman54" /> </p>
 
+<!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdur-rahman54" alt="abdur-rahman54" /></a> </p>
+-->
 
 - 🔭 I’m currently working on **Cyber security**
 
