@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **Software Developer**
 
-- 🌱 I’m currently learning **Kotlin, Java, python**
+- 🌱 I’m currently learning **Kotlin, Java, Python**
 
-- 👯 I’m looking to collaborate on **Software development and testing**
+- 👯 I’m looking to collaborate on **Software Development and Testing**
 
 - ⚡ Fun fact **I am lazy**
 
