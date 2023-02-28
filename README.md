@@ -7,11 +7,11 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdur-rahman54" alt="abdur-rahman54" /></a> </p>
 -->
 
-- 🔭 I’m currently working on **Cyber security**
+- 🔭 I’m currently working on **Software Developer**
 
-- 🌱 I’m currently learning **python**
+- 🌱 I’m currently learning **Kotlin, Java, python**
 
-- 👯 I’m looking to collaborate on **Cyber security & AI**
+- 👯 I’m looking to collaborate on **Software development and testing**
 
 - ⚡ Fun fact **I am lazy**
 
