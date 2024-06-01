@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdur Rahman</h1>
-<h3 align="center">A passionate enginner from Bangladesh</h3>
+<h3 align="center">🤖 AI Enthusiast | ML-Ops Specialist | ML Engineer 🚀</h3>
 <img align="right" alt="cyber security" width="400" src="https://media.tenor.com/54mjjpuowCgAAAAC/ninjala-jane.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdur-rahman54&label=Profile%20views&color=0e75b6&style=flat" alt="abdur-rahman54" /> </p>
 
@@ -7,17 +7,17 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdur-rahman54" alt="abdur-rahman54" /></a> </p>
 -->
 
-- 🔭 I’m currently working on **Software Developer**
+- 🔭 I'm presently engaged in **ML Engineer** projects.
 
-- 🌱 I’m currently learning **Kotlin, Java, Python**
+- 🌱 I'm currently expanding my skills in **machine learning, Software Engineering, and DevOps**.
 
-- 👯 I’m looking to collaborate on **Software Development and Testing**
+- 👯 I'm seeking opportunities to collaborate on **ML Ops and ML engineering projects**.
 
-- ⚡ Fun fact **I am lazy**
+- ⚡ Fun fact **I'm all about efficiency, even if it means being a bit lazy!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/abdur-rahman-34a31a12b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdur-rahman-34a31a12b" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/abdur-rahman55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdur-rahman-34a31a12b" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/abdur_rahman54" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abdur_rahman5931" height="30" width="40" /></a>
 </p>
 
